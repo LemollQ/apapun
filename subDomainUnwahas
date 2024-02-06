@@ -1,0 +1,135 @@
+local: 10757 | remote: 205 tal.py                                               
+                                                                                                                                                                       
+Wordlist: 10962 | Target: unwahas.ac.id | Ip: 103.178.172.32 
+                                                                                                                                                                       
+15:46:03
+
+Ip address      Code Subdomain                             Server                                Real hostname
+--------------- ---- ------------------------------------- ------------------------------------- -------------------------------------
+103.178.172.67  200  administrasi.fk.unwahas.ac.id         Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.22  200  aset.unwahas.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.32  200  affiliate.unwahas.ac.id               LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.32  200  aswajacentre.unwahas.ac.id            LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.19  200  bali.magis.unwahas.ac.id              nginx/1.20.2                                                               
+203.175.9.34    200  cpanel.unwahas.ac.id                  LiteSpeed                                                                  
+203.175.9.34    403  cpcalendars.unwahas.ac.id             LiteSpeed                                                                  
+203.175.9.34    403  cpcontacts.unwahas.ac.id              LiteSpeed                                                                  
+103.178.172.32  200  dev.unwahas.ac.id                     LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.20  504  ekis.fe.unwahas.ac.id                 Mikrotik HttpProxy                                                         
+103.178.172.18  200  elearning.unwahas.ac.id               nginx/1.20.2                                                               
+103.178.172.19       diy.magis.unwahas.ac.id                                                                                          
+103.178.172.32  200  eprints.unwahas.ac.id                 LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.20  504  faperta.unwahas.ac.id                 Mikrotik HttpProxy                                                         
+103.178.172.20  504  farmasi.unwahas.ac.id                 Mikrotik HttpProxy                                                         
+203.175.9.34    200  fai.unwahas.ac.id                     LiteSpeed                                                                  
+103.178.172.20  504  feb.unwahas.ac.id                     Mikrotik HttpProxy                                                         
+103.178.172.20  504  fh.unwahas.ac.id                      Mikrotik HttpProxy                                                         
+103.178.172.12  404  fkip.unwahas.ac.id                    LiteSpeed                                                                  
+103.178.172.20  504  fisip.unwahas.ac.id                   Mikrotik HttpProxy                                                         
+103.178.172.67  200  fk.unwahas.ac.id                      Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+203.175.9.34    200  ftp.unwahas.ac.id                     LiteSpeed                                                                  
+103.178.172.32  404  hosting1.unwahas.ac.id                LiteSpeed                                                                  
+103.178.172.22  200  hrd.unwahas.ac.id                     Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.32  200  hsm.unwahas.ac.id                     LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.32  200  icdesd.unwahas.ac.id                  LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.13  200  indie.teknik.unwahas.ac.id            Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  icimice.unwahas.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.19  200  iop.unwahas.ac.id                     nginx/1.20.2                                                               
+103.178.172.13  200  iscogi.unwahas.ac.id                  Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  inventaris.teknik.unwahas.ac.id       Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.32  200  journal-me.teknik.unwahas.ac.id       LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.67  200  jurnal.fk.unwahas.ac.id               Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.19  200  kkn.lppm.unwahas.ac.id                nginx/1.20.2                                                               
+103.178.172.8   200  lib.fk.unwahas.ac.id                  Apache/2.4.25 (Debian)                                                     
+103.178.172.19  200  lib.unwahas.ac.id                     nginx/1.20.2                                                               
+103.178.172.13       kimia.teknik.unwahas.ac.id                                                                                       
+127.0.0.1            localhost.unwahas.ac.id                                                                                          
+103.178.172.21  200  lms.unwahas.ac.id                     Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+203.175.9.34    200  lpdp.unwahas.ac.id                    LiteSpeed                                                                  
+103.178.172.19  200  magis.blasemarang.unwahas.ac.id       nginx/1.20.2                                                               
+103.178.172.19  200  lpmp.unwahas.ac.id                    nginx/1.20.2                                                               
+103.178.172.19  200  lsp.unwahas.ac.id                     nginx/1.20.2                                                               
+103.178.172.32  200  mail.unwahas.ac.id                    LiteSpeed                             unwahas.ac.id
+103.178.172.21  200  mbkm.unwahas.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  mesin.teknik.unwahas.ac.id            Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.31  200  mrtg.unwahas.ac.id                    Apache/2.4.41 (Ubuntu)                                                     
+103.178.172.32  200  nms.unwahas.ac.id                     LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.21  200  pmb.unwahas.ac.id                     Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.32  200  pps.unwahas.ac.id                     LiteSpeed                             hosting1.unwahas.ac.id
+203.175.9.34    200  publikasiilmiah.unwahas.ac.id         LiteSpeed                                                                  
+103.178.172.20  504  pustaka.unwahas.ac.id                 Mikrotik HttpProxy                                                         
+103.178.172.67  200  pusatkarir.unwahas.ac.id              Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.21  200  ptsp.unwahas.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.22  200  pusatbahasa.unwahas.ac.id             Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.12  200  sikadu.unwahas.ac.id                  LiteSpeed                                                                  
+103.178.172.19  200  sicakep.unwahas.ac.id                 nginx/1.20.2                                                               
+103.178.172.19  200  sie.unwahas.ac.id                     nginx/1.20.2                                                               
+103.178.172.21  200  sippu.unwahas.ac.id                   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.21  200  simawa.unwahas.ac.id                  Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.19  200  sinau.lpmp.unwahas.ac.id              nginx/1.20.2                                                               
+103.178.172.13  200  sikap2.teknik.unwahas.ac.id           Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  sindok.teknik.unwahas.ac.id           Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  sitak.teknik.unwahas.ac.id            Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.32  200  sister.unwahas.ac.id                  LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.13  200  sikap.teknik.unwahas.ac.id            Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  snst.unwahas.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.30       smart.unwahas.ac.id                                                                                              
+203.175.9.34    200  student.unwahas.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  teknik.unwahas.ac.id                  Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.13  200  ti.teknik.unwahas.ac.id               Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.20  504  tracerstudy.unwahas.ac.id             Mikrotik HttpProxy                                                         
+103.178.172.23  200  unifi.unwahas.ac.id                   Apache/2.4.41 (Ubuntu)                                                     
+103.178.172.19  200  upttik.unwahas.ac.id                  nginx/1.20.2                                                               
+103.178.172.21  200  unwahastv.unwahas.ac.id               Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-                                      
+103.178.172.18  200  wahid.unwahas.ac.id                   nginx/1.20.2                                                               
+203.175.9.34    401  webdisk.unwahas.ac.id                 LiteSpeed                                                                  
+203.175.9.34    200  webmail.unwahas.ac.id                 LiteSpeed                                                                  
+167.71.209.44   403  whicaps.unwahas.ac.id                 nginx                                                                      
+203.175.9.34         whm.unwahas.ac.id                                                                                                
+103.178.172.21       vaksin.unwahas.ac.id                                                                                             
+103.178.172.20  504  wisuda.unwahas.ac.id                  Mikrotik HttpProxy                                                         
+103.178.172.19  200  ntt.magis.unwahas.ac.id               nginx/1.20.2                                                               
+103.178.172.20  504  www.fh.unwahas.ac.id                  Mikrotik HttpProxy                    fh.unwahas.ac.id
+103.178.172.20  504  www.farmasi.unwahas.ac.id             Mikrotik HttpProxy                    farmasi.unwahas.ac.id
+103.178.172.20  504  www.fisip.unwahas.ac.id               Mikrotik HttpProxy                    fisip.unwahas.ac.id
+103.178.172.20  504  www.faperta.unwahas.ac.id             Mikrotik HttpProxy                    faperta.unwahas.ac.id
+103.178.172.32  404  www.hosting1.unwahas.ac.id            LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.12  404  www.fkip.unwahas.ac.id                LiteSpeed                             fkip.unwahas.ac.id
+103.178.172.67  200  www.administrasi.fk.unwahas.ac.id     Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- administrasi.fk.unwahas.ac.id
+203.175.9.34    200  www.fai.unwahas.ac.id                 LiteSpeed                                                                  
+103.178.172.20  504  www.pustaka.unwahas.ac.id             Mikrotik HttpProxy                    pustaka.unwahas.ac.id
+103.178.172.13  200  www.iscogi.unwahas.ac.id              Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- iscogi.unwahas.ac.id
+103.178.172.67  200  www.fk.unwahas.ac.id                  Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- fk.unwahas.ac.id
+203.175.9.34    200  www.student.unwahas.ac.id             LiteSpeed                                                                  
+103.178.172.32  200  www.pps.unwahas.ac.id                 LiteSpeed                             hosting1.unwahas.ac.id
+103.178.172.67  200  www.pusatkarir.unwahas.ac.id          Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- pusatkarir.unwahas.ac.id
+203.175.9.34    200  www.lpdp.unwahas.ac.id                LiteSpeed                                                                  
+103.178.172.13  200  www.inventaris.teknik.unwahas.ac.id   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- inventaris.teknik.unwahas.ac.id
+103.178.172.21  200  www.ptsp.unwahas.ac.id                Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- ptsp.unwahas.ac.id
+103.178.172.20  504  www.tracerstudy.unwahas.ac.id         Mikrotik HttpProxy                    tracerstudy.unwahas.ac.id
+103.178.172.13  200  www.snst.unwahas.ac.id                Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- snst.unwahas.ac.id
+103.178.172.13  200  www.sikap.teknik.unwahas.ac.id        Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- sikap.teknik.unwahas.ac.id
+103.178.172.20  504  www.wisuda.unwahas.ac.id              Mikrotik HttpProxy                    wisuda.unwahas.ac.id
+103.178.172.21  200  www.unwahastv.unwahas.ac.id           Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- unwahastv.unwahas.ac.id
+103.178.172.21       www.mbkm.unwahas.ac.id                                                      mbkm.unwahas.ac.id
+103.178.172.21       www.sippu.unwahas.ac.id                                                     sippu.unwahas.ac.id
+103.178.172.22  200  www.hrd.unwahas.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- hrd.unwahas.ac.id
+103.178.172.13  200  www.kimia.teknik.unwahas.ac.id        Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- kimia.teknik.unwahas.ac.id
+103.178.172.13       www.teknik.unwahas.ac.id                                                    teknik.unwahas.ac.id
+103.178.172.13  200  www.mesin.teknik.unwahas.ac.id        Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- mesin.teknik.unwahas.ac.id
+103.178.172.21  200  www.pmb.unwahas.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- pmb.unwahas.ac.id
+203.175.9.34    200  www.publikasiilmiah.unwahas.ac.id     LiteSpeed                                                                  
+103.178.172.13  200  www.indie.teknik.unwahas.ac.id        Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- indie.teknik.unwahas.ac.id
+103.178.172.12  200  www.sikadu.unwahas.ac.id              LiteSpeed                             sikadu.unwahas.ac.id
+103.178.172.13  200  www.ti.teknik.unwahas.ac.id           Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- ti.teknik.unwahas.ac.id
+103.178.172.32       www.unwahas.ac.id                                                           unwahas.ac.id
+103.178.172.22  200  www.pusatbahasa.unwahas.ac.id         Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- pusatbahasa.unwahas.ac.id
+103.178.172.13  200  www.sitak.teknik.unwahas.ac.id        Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- sitak.teknik.unwahas.ac.id
+103.178.172.21  200  www.simawa.unwahas.ac.id              Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- simawa.unwahas.ac.id
+103.178.172.13  200  www.sindok.teknik.unwahas.ac.id       Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- sindok.teknik.unwahas.ac.id
+103.178.172.21  200  www.lms.unwahas.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k- lms.unwahas.ac.id
+                                                                                
+15:52:12
+
+Ip address: 16 | Subdomain: 122 | elapsed time: 00:06:08 
+.
